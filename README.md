@@ -1,0 +1,5 @@
+- 👋 ola,meu nome é mannuelaa
+- 👀 meu email de contato é mannuela.araujo@escola.pr.gov.br
+- 🌱 estou interesado em aprander a programar novas linguagens
+- 💞️ estou aprendendo a programar a linguagem scratch e javascript
+- 📫 
